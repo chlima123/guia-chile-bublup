@@ -1,5 +1,5 @@
 ---
-title: "2. Conhecendo o Destino"
+title: "02. Conhecendo o Destino"
 date: 2026-07-10
 draft: false
 description: "Clima, moeda, idioma, cultura e dados gerais sobre Santiago do Chile."

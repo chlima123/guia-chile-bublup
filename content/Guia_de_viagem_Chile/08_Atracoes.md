@@ -1,5 +1,5 @@
 ---
-title: "8. Atrações"
+title: "08. Atrações"
 date: 2026-07-10
 draft: false
 description: "Pontos turísticos, parques, mirantes, litoral e vida noturna."

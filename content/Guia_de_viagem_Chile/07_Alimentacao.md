@@ -1,5 +1,5 @@
 ---
-title: "7. Alimentação"
+title: "07. Alimentação"
 date: 2026-07-10
 draft: false
 description: "Restaurantes, bares, mercados e opções gastronômicas em Santiago."

@@ -1,5 +1,5 @@
 ---
-title: "6. Hospedagem"
+title: "06. Hospedagem"
 date: 2026-07-10
 draft: false
 description: "Hospedagem em Las Condes e dicas de regiões para ficar."

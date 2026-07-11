@@ -1,5 +1,5 @@
 ---
-title: "3. Planejamento da Viagem"
+title: "03. Planejamento da Viagem"
 date: 2026-07-10
 draft: false
 description: "Documentação, seguro, câmbio, bagagem e internet para a viagem."
