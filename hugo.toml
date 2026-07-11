@@ -1,0 +1,10 @@
+baseURL = 'https://chlima123.github.io/guia-chile-bublup/'
+languageCode = 'pt-br'
+title = 'Guia de Viagem Chile'
+
+[outputs]
+home = ['HTML', 'RSS']
+section = ['HTML', 'RSS']
+
+[services.rss]
+limit = 100
